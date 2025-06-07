@@ -2,4 +2,4 @@
 
 **learning & building rust applications for devs**
 
-maintaining [commit-wizard](https://github.com/jamiehdev/commit-wizard) - ai commit tool
+maintaining [commit-wizard](https://github.com/jamiehdev/commit-wizard) - cli tool for automated git commit generation
